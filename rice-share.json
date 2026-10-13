@@ -1,0 +1,6 @@
+{
+  "schema": "ricewm.shared-rice/v1",
+  "kind": "recipe",
+  "package": "look-agent-bluebloom.rice.json",
+  "sha256": "35218a7c96f452b1a6efa642c4903a9c7eac914dfa2f20ea799f3e1d1af8872e"
+}

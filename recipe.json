@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "id": "look:agent-bluebloom",
+  "title": "Bluebloom",
+  "scope": "appearance",
+  "theme": "agent-bluebloom.theme",
+  "wallpaper": null,
+  "workspace": 0,
+  "layout": "Default",
+  "arrangement": "Split",
+  "applications": []
+}
