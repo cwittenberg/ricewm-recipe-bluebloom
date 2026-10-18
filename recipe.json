@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "id": "look:agent-bluebloom",
-  "title": "Bluebloom",
   "scope": "appearance",
+  "title": "Bluebloom",
+  "wallpaper": {
+    "id": "recipe-background",
+    "name": "Bluebloom",
+    "source": "/root/.cache/ricewm/theme-assets/702fd59073f614a1750df00d4174cbca745b98f0f6460877eead4c8e9881165b.webp",
+    "type": "image",
+    "mode": "Crop",
+    "sha256": "702fd59073f614a1750df00d4174cbca745b98f0f6460877eead4c8e9881165b",
+    "bytes": 62456
+  },
+  "id": "look:agent-bluebloom",
   "theme": "agent-bluebloom.theme",
-  "wallpaper": null,
   "workspace": 0,
   "layout": "Default",
   "arrangement": "Split",

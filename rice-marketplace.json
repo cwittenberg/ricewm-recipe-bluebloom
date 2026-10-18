@@ -1,14 +1,14 @@
 {
   "schema": "ricewm.recipe-marketplace/v1",
   "name": "Bluebloom",
-  "version": "1.0.0",
-  "summary": "A shareable RiceWM appearance recipe.",
-  "license": "MIT",
+  "version": "1.0.2",
+  "summary": "Windows 10 alike recipe",
+  "license": "CC0-1.0",
   "credits": "",
   "artifact": {
     "path": "look-agent-bluebloom.rice.json",
-    "bytes": 8619,
-    "sha256": "35218a7c96f452b1a6efa642c4903a9c7eac914dfa2f20ea799f3e1d1af8872e"
+    "bytes": 180229,
+    "sha256": "7946deb708c81fca77817ca346565e6866636d07800340a0f6d1a8eed6917a9a"
   },
   "media": [
     {
@@ -18,20 +18,20 @@
       "width": 256,
       "height": 256,
       "license": "MIT",
-      "credits": "Original RiceWM recipe sharing icon.",
-      "sha256": "87af9e310f001d1ae051e16f5d897e365ca18fc043919f44d690f142e79f45e5",
-      "bytes": 3532
+      "credits": "Original RiceWM sharing icon.",
+      "sha256": "373005bbf566e9d63cefcc342c5bb04d1cb7d5c96d90813178cd2190ca7d46ea",
+      "bytes": 3554
     },
     {
       "role": "screenshot",
       "path": "media/screenshot-1.webp",
       "alt": "Bluebloom — desktop capture with sharing dialogs and menus omitted.",
-      "width": 1518,
-      "height": 761,
+      "width": 1864,
+      "height": 899,
       "license": "Depicted assets retain their original licences",
       "credits": "RiceWM desktop capture. Wallpaper and other artwork credits are retained in the recipe.",
-      "sha256": "8b8644ebe3cfccc7ed5b70dcbcf087c463b2d25149cea5af698569f851e4480c",
-      "bytes": 520430
+      "sha256": "06b335c26f398c067d2732d03d7a43656fb2409d3f8a607be11dc3c2c5fd83c5",
+      "bytes": 663506
     }
   ]
 }
